@@ -1,14 +1,12 @@
 ### bos vindas ao meu perfil 💙
 
 meu nome é vitor
-
--estou estudando na alura
+-estudando na alura
 -estou desenvolvendo na limguagem javascript
--utilizo esse espaço para minha organizaçâo e compartilhamento dos meu progetos desivolvido
+-utilizo este espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvido
 
 ### coce pode entrar e cmtato com migo 📫
 
 vitorhugosilvarodrigues2@gmail.com
 
-
-![](https://tenor.com/pt-BR/view/dokkan-gif-26157773)
+![](https://tenor.com/pt-BR/view/rule252-dbz-dragon-ball-z-maid-gif-23861436)
